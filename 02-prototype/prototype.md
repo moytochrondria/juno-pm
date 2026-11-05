@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-https://lovable.dev/preview/5MCTMp9NvUnUNK9jJPdGng19XZ3GK0GK
+[https://lovable.dev/preview/5MCTMp9NvUnUNK9jJPdGng19XZ3GK0GK](https://juno-dependency-radar.lovable.app)
 
 _____
 
